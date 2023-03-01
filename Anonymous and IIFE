@@ -26,7 +26,7 @@
 // })
 // cnvrtToCaps("hello this is anonymous function in title caps")
 
-// // OUTPUT: 
+// OUTPUT: 
 // Hello This Is Anonymous Function In Title Caps
 
 
